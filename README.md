@@ -17,3 +17,17 @@ def chao_mung():
 if __name__ == "__main__":
     chao_mung()
 ```
+
+
+2. Bảng so sánh công cụ: StackEdit vs. VS Code
+| Tiêu chí | StackEdit | Visual Studio Code (VS Code) |
+| :--- | :--- | :--- |
+| **Mục đích chính** | Soạn thảo & biên tập Markdown trực tuyến | Môi trường phát triển tích hợp (IDE) chuyên sâu |
+| **Hỗ trợ Code** | Hỗ trợ xem trước Markdown thời gian thực | Hỗ trợ chạy mã, debug đa ngôn ngữ (Python, JS,...) |
+| Khả năng mở rộng | Cơ bản, tập trung vào viết tài liệu | Cực kỳ mạnh mẽ với hệ thống Extension phong phú |
+
+3. Task List kiểm tra tiến độ cài đặt môi trường
+   [x] Tải và cài đặt phần mềm VS Code phiên bản mới nhất
+   [x] Cài đặt extension Python và GitLens[x] Cấu hình phím tắt và giao diện cá nhân
+   [ ] Tạo repository đầu tiên trên GitHub và kết nối với máy tính
+   [ ] Chạy thành công đoạn mã Python kiểm tra hệ thống đầu tiên
